@@ -1,0 +1,26 @@
+category, exclusive offers hover list (done)
+header wise product list.
+change email id and phone number (done)
+slow slideshow instead of background hero video in gallery page (grey bg)
+add direct google email button and direct call button. (done)
+add 6x2 card layout (optional) (done)
+supabase ready database management (done)
+lazy load feature for fast loading
+add sceleton layout (done)
+add multiple language
+add google schema
+SEO friendly
+debugging
+final touch
+test
+domain integration
+launch
+test
+
+
+language list
+spanish
+russian
+hindi
+french
+arabic
