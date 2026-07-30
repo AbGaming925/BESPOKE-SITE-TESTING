@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+    <!-- ENGLISH -->
+    <url><loc>https://example.com/index.html</loc></url>
+    <url><loc>https://example.com/category.html</loc></url>
+    <url><loc>https://example.com/gallery.html</loc></url>
+    <url><loc>https://example.com/offers.html</loc></url>
+    <url><loc>https://example.com/contact.html</loc></url>
+    <url><loc>https://example.com/machines.html</loc></url>
+    <url><loc>https://example.com/flash_stamps.html</loc></url>
+    <url><loc>https://example.com/accessories.html</loc></url>
+
+    <!-- HINDI -->
+    <url><loc>https://example.com/hi/index.html</loc></url>
+    <url><loc>https://example.com/hi/category.html</loc></url>
+    <url><loc>https://example.com/hi/gallery.html</loc></url>
+    <url><loc>https://example.com/hi/offers.html</loc></url>
+    <url><loc>https://example.com/hi/contact.html</loc></url>
+    <url><loc>https://example.com/hi/machines.html</loc></url>
+    <url><loc>https://example.com/hi/flash_stamps.html</loc></url>
+    <url><loc>https://example.com/hi/accessories.html</loc></url>
+
+    <!-- FRENCH -->
+    <url><loc>https://example.com/fr/index.html</loc></url>
+    <url><loc>https://example.com/fr/category.html</loc></url>
+    <url><loc>https://example.com/fr/gallery.html</loc></url>
+    <url><loc>https://example.com/fr/offers.html</loc></url>
+    <url><loc>https://example.com/fr/contact.html</loc></url>
+    <url><loc>https://example.com/fr/machines.html</loc></url>
+    <url><loc>https://example.com/fr/flash_stamps.html</loc></url>
+    <url><loc>https://example.com/fr/accessories.html</loc></url>
+
+    <!-- GERMAN -->
+    <url><loc>https://example.com/de/index.html</loc></url>
+    <url><loc>https://example.com/de/category.html</loc></url>
+    <url><loc>https://example.com/de/gallery.html</loc></url>
+    <url><loc>https://example.com/de/offers.html</loc></url>
+    <url><loc>https://example.com/de/contact.html</loc></url>
+    <url><loc>https://example.com/de/machines.html</loc></url>
+    <url><loc>https://example.com/de/flash_stamps.html</loc></url>
+    <url><loc>https://example.com/de/accessories.html</loc></url>
+
+    <!-- SPANISH -->
+    <url><loc>https://example.com/es/index.html</loc></url>
+    <url><loc>https://example.com/es/category.html</loc></url>
+    <url><loc>https://example.com/es/gallery.html</loc></url>
+    <url><loc>https://example.com/es/offers.html</loc></url>
+    <url><loc>https://example.com/es/contact.html</loc></url>
+    <url><loc>https://example.com/es/machines.html</loc></url>
+    <url><loc>https://example.com/es/flash_stamps.html</loc></url>
+    <url><loc>https://example.com/es/accessories.html</loc></url>
+
+    <!-- RUSSIAN -->
+    <url><loc>https://example.com/ru/index.html</loc></url>
+    <url><loc>https://example.com/ru/category.html</loc></url>
+    <url><loc>https://example.com/ru/gallery.html</loc></url>
+    <url><loc>https://example.com/ru/offers.html</loc></url>
+    <url><loc>https://example.com/ru/contact.html</loc></url>
+    <url><loc>https://example.com/ru/machines.html</loc></url>
+    <url><loc>https://example.com/ru/flash_stamps.html</loc></url>
+    <url><loc>https://example.com/ru/accessories.html</loc></url>
+
+    <!-- ARABIC -->
+    <url><loc>https://example.com/ar/index.html</loc></url>
+    <url><loc>https://example.com/ar/category.html</loc></url>
+    <url><loc>https://example.com/ar/gallery.html</loc></url>
+    <url><loc>https://example.com/ar/offers.html</loc></url>
+    <url><loc>https://example.com/ar/contact.html</loc></url>
+    <url><loc>https://example.com/ar/machines.html</loc></url>
+    <url><loc>https://example.com/ar/flash_stamps.html</loc></url>
+    <url><loc>https://example.com/ar/accessories.html</loc></url>
+
+</urlset>
